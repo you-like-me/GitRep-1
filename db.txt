@@ -1,6 +1,6 @@
-1
-2
-4
-6
-7
-6
+1 ivan
+2 oleg
+4 anna
+6 igor
+7 petr
+6 sergey
