@@ -11,12 +11,8 @@ public class СountEvens {
             if (num % 2 == 0) {
                 count++;
             }
-            System out print (count);
         }
-        
         return count;
     }
-    
-
 
 }
